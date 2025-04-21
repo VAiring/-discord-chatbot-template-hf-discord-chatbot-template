@@ -1,0 +1,6 @@
+# app/requirements.txt
+fastapi
+discord.py
+requests
+uvicorn
+aiohttp
